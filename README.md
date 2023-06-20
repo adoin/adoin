@@ -1,1 +1,7 @@
-# Aba Aba 
+[![Adoin's GitHub stats](https://github-readme-stats.vercel.app/api?username=adoin&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adoin&layout=compact&theme=radical&custom_title=最宠爱的妃子&card_width=500)](https://github.com/anuraghazra/github-readme-stats)   
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=adoin&repo=echarts-bus&theme=Gradient)](https://github.com/anuraghazra/github-readme-stats)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=adoin&repo=day-or-night&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=adoin&repo=vxe-table&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=adoin&repo=vben3&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=adoin&column=8&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
