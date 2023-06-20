@@ -1,0 +1,76 @@
+.rotating-x-box {
+	 perspective: 1000px;
+	 transform-style: preserve-3d;
+	 border-radius: 1rem;
+}
+ .rotating-x-box > * {
+	 position: absolute;
+	 width: 100%;
+	 height: 100%;
+	 border-radius: 1rem;
+	 backface-visibility: hidden;
+	 transition: 1.5s;
+}
+ .rotating-x-box > *:nth-child(1) {
+	 transform: rotateX(0deg);
+}
+ .rotating-x-box > *:nth-child(2) {
+	 transform: rotateX(180deg);
+}
+ .rotating-x-box:hover > *:nth-child(1) {
+	 transform: rotateX(-180deg);
+}
+ .rotating-x-box:hover > *:nth-child(2) {
+	 transform: rotateX(0deg);
+}
+ .rotating-y-box {
+	 perspective: 1000px;
+	 transform-style: preserve-3d;
+	 border-radius: 1rem;
+}
+ .rotating-y-box > * {
+	 position: absolute;
+	 width: 100%;
+	 height: 100%;
+	 border-radius: 1rem;
+	 backface-visibility: hidden;
+	 transition: 1.5s;
+}
+ .rotating-y-box > *:nth-child(1) {
+	 transform: rotateY(0deg);
+}
+ .rotating-y-box > *:nth-child(2) {
+	 transform: rotateY(180deg);
+}
+ .rotating-y-box:hover > *:nth-child(1) {
+	 transform: rotateY(-180deg);
+}
+ .rotating-y-box:hover > *:nth-child(2) {
+	 transform: rotateY(0deg);
+}
+ .rotating-diagonal-box {
+	 perspective: 1000px;
+	 transform-style: preserve-3d;
+	 border-radius: 1rem;
+}
+ .rotating-diagonal-box > * {
+	 position: absolute;
+	 width: 100%;
+	 height: 100%;
+	 border-radius: 1rem;
+	 backface-visibility: hidden;
+	 transition: 1.5s;
+}
+ .rotating-diagonal-box > *:nth-child(1) {
+	 transform: rotate3d(0, 0, 0, 0);
+}
+ .rotating-diagonal-box > *:nth-child(2) {
+	 transform: rotate3d(1, 1, 0, 180deg);
+}
+ .rotating-diagonal-box:hover > *:nth-child(1) {
+	 transform: rotate3d(1, 1, 0, -180deg);
+}
+ .rotating-diagonal-box:hover > *:nth-child(2) {
+	 transform: rotate3d(0, 0, 0, 0);
+}
+ 
