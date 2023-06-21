@@ -7,11 +7,11 @@
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
   <p align="left">
-      
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=adoin&repo=echarts-bus&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=adoin&repo=day-or-night&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=adoin&repo=vxe-table&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=adoin&repo=vben3&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+    
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=adoin&repo=echarts-bus&theme=gruvbox)](https://github.com/adoin/echarts-bus)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=adoin&repo=day-or-night&theme=synthwave)](https://github.com/adoin/day-or-night)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=adoin&repo=vxe-table&theme=tokyonight)](https://github.com/adoin/vxe-table)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=adoin&repo=vben3&theme=cobalt)](https://github.com/adoin/vben3)
   </p>
 </details>
   
