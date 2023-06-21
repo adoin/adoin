@@ -22,4 +22,4 @@
 
 
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai&quote=Quote%20your%20live%20with%20try%20catch,%20don't%20forget%20there%20is%20a%20finally%20dead!)]([https://github.com/piyushsuthar/github-readme-quotes](https://weibo.com/u/7746258131)https://weibo.com/u/7746258131)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai&quote=Quote%20your%20live%20with%20try%20catch,%20don't%20forget%20there%20is%20a%20finally%20dead!)](https://weibo.com/u/7746258131)
