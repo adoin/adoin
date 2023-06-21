@@ -16,10 +16,10 @@
 </details>
   
 ## github成就
-[![trophy](https://github-profile-trophy.vercel.app/?username=adoin&column=8&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=adoin&column=8&margin-w=15&margin-h=15)]([https://github.com/ryo-ma/github-profile-trophy](https://github.com/adoin?tab=achievements))
 
 
 
 
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai&quote=Quote%20your%20live%20with%20try%20catch,%20don't%20forget%20there%20is%20a%20finally%20dead!)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai&quote=Quote%20your%20live%20with%20try%20catch,%20don't%20forget%20there%20is%20a%20finally%20dead!)]([https://github.com/piyushsuthar/github-readme-quotes](https://weibo.com/u/7746258131)https://weibo.com/u/7746258131)
