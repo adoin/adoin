@@ -1,3 +1,6 @@
+## 累了吧 放松下
+![My GitHub Game](game.gif)
+
 ## 随便看看
 [![Adoin's GitHub stats](https://github-readme-stats.vercel.app/api?username=adoin&show_icons=true&theme=radical&&bg_color=45,904e95,e86444,441321)](https://github.com/adoin?tab=repositories)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adoin&layout=compact&theme=radical&custom_title=最宠爱的妃子&card_width=500)](https://github.com/adoin?tab=stars)   
