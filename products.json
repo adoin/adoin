@@ -1,0 +1,16 @@
+[
+  {
+  "name":"git-Agent",
+  "description":{
+    "zh-CN":"一个AI驱动的git 可视化操作工具",
+    "en-US":"An AI-driven git visual operation tool"
+  }
+}，
+  {
+    "name":"driver-doctor",
+    "description":{
+      "zh-CN":"一个AI驱动的磁盘诊断清理工具",
+      "en-US":"An AI-powered disk diagnostic cleaning tool"
+    }
+  }
+]
