@@ -1,16 +1,28 @@
 [
   {
-  "name":"git-Agent",
-  "description":{
-    "zh-CN":"一个AI驱动的git 可视化操作工具",
-    "en-US":"An AI-driven git visual operation tool"
-  }
-}，
+    "name": "git-Agent",
+    "description": {
+      "zh-CN": "\u4e00\u4e2aAI\u9a71\u52a8\u7684git \u53ef\u89c6\u5316\u64cd\u4f5c\u5de5\u5177",
+      "en-US": "An AI-driven git visual operation tool"
+    }
+  },
   {
-    "name":"driver-doctor",
-    "description":{
-      "zh-CN":"一个AI驱动的磁盘诊断清理工具",
-      "en-US":"An AI-powered disk diagnostic cleaning tool"
+    "name": "driver-doctor",
+    "description": {
+      "zh-CN": "\u4e00\u4e2aAI\u9a71\u52a8\u7684\u78c1\u76d8\u8bca\u65ad\u6e05\u7406\u5de5\u5177",
+      "en-US": "An AI-powered disk diagnostic cleaning tool"
+    }
+  },
+  {
+    "name": "Next-New-Tab",
+    "type": "Extension",
+    "ids": {
+      "chrome": "ckeonnbbjknojfljdiplajdjoppcoffe",
+      "edge": "lopbfoihapajogbdhlnpclfdnlbkmdnn"
+    },
+    "description": {
+      "zh-CN": "\u4e00\u4e2a\u652f\u6301\u5e26\u53c2\u6570\u4e66\u7b7e\u7684\u65b0\u6807\u7b7e\u9875\u6269\u5c55\uff0c\u53ef\u4ee5\u5b9e\u73b0\u5373\u65f6\u641c\u7d22\u8df3\u8f6c\u8c46\u5305\u7b49\u65b0\u641c\u7d22\u5f15\u64ce",
+      "en-US": "A new tab page extension that supports parameter bookmarks, which can realize instant search and jump to new search engines such as Doubao"
     }
   }
 ]
