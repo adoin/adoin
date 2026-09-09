@@ -37,21 +37,9 @@
       <p><code>Rust</code> <code>egui</code> <code>AI</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/adoin/driver-doctor">Driver Doctor</a></h3>
-      <p>面向 Windows 的磁盘空间分析工具：快速定位大文件与目录，并用 AI 给出更易理解的清理建议。</p>
-      <p><code>Rust</code> <code>Windows</code> <code>AI</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
       <h3><a href="https://github.com/adoin/sax-design-vue">Sax Design Vue</a></h3>
       <p>基于 Vue 3 与 TypeScript 的 UI 组件库，延续 Vuesax 的设计语言，并提供独立文档站点。</p>
       <p><code>Vue 3</code> <code>TypeScript</code> <code>UI Library</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/adoin/ChatGPT-gloves">ChatGPT Gloves</a></h3>
-      <p>一组可复用的 Codex 插件与技能，让长对话、规格同步和任务迁移变得更可靠。</p>
-      <p><code>Codex</code> <code>Plugins</code> <code>JavaScript</code></p>
     </td>
   </tr>
 </table>
