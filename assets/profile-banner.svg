@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Adoin</title>
+  <desc id="desc">Building useful things with code</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f172a"/>
+      <stop offset="0.52" stop-color="#312e81"/>
+      <stop offset="1" stop-color="#164e63"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#a78bfa" stop-opacity="0.42"/>
+      <stop offset="1" stop-color="#a78bfa" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#ffffff" stroke-opacity="0.055" stroke-width="1"/>
+    </pattern>
+    <filter id="softGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="320" rx="28" fill="url(#background)"/>
+  <rect width="1200" height="320" rx="28" fill="url(#grid)"/>
+  <circle cx="930" cy="50" r="210" fill="url(#glow)" filter="url(#softGlow)"/>
+  <circle cx="110" cy="300" r="170" fill="#22d3ee" fill-opacity="0.12" filter="url(#softGlow)"/>
+
+  <g transform="translate(86 76)">
+    <rect width="8" height="168" rx="4" fill="#22d3ee"/>
+    <text x="42" y="62" fill="#ffffff" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="64" font-weight="700" letter-spacing="1">ADOiN</text>
+    <text x="44" y="112" fill="#c4b5fd" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="24" font-weight="500" letter-spacing="3">BUILD · EXPLORE · SHIP</text>
+    <text x="44" y="158" fill="#cbd5e1" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="22">Frontend · Rust · AI tooling</text>
+  </g>
+
+  <g transform="translate(895 112)" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M0 56 48 8l48 48-48 48Z" stroke="#a78bfa" stroke-width="5"/>
+    <path d="m48 8 48 48 48-48 48 48-48 48-48-48" stroke="#22d3ee" stroke-width="5" opacity="0.9"/>
+    <circle cx="48" cy="56" r="10" fill="#ffffff" stroke="none"/>
+    <circle cx="144" cy="56" r="10" fill="#ffffff" stroke="none"/>
+  </g>
+
+  <rect x="1" y="1" width="1198" height="318" rx="27" fill="none" stroke="#ffffff" stroke-opacity="0.12" stroke-width="2"/>
+</svg>
