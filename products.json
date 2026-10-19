@@ -7,13 +7,6 @@
     }
   },
   {
-    "name": "driver-doctor",
-    "description": {
-      "zh-CN": "\u4e00\u4e2aAI\u9a71\u52a8\u7684\u78c1\u76d8\u8bca\u65ad\u6e05\u7406\u5de5\u5177",
-      "en-US": "An AI-powered disk diagnostic cleaning tool"
-    }
-  },
-  {
     "name": "Next-New-Tab",
     "type": "Extension",
     "ids": {
@@ -37,6 +30,14 @@
     "description": {
       "zh-CN": "一个基于 Sax Design Vue 的 Vue 3 后台管理模板，提供配置式业务页面、数据可视化、地图、多标签工作区、国际化和深色模式",
       "en-US": "A Vue 3 admin dashboard template built with Sax Design Vue, featuring configuration-driven pages, data visualization, maps, multi-tab workspaces, i18n, and dark mode"
+    }
+  },
+  {
+    
+    "name": "Hongguo-video-pack",
+    "description": {
+      "zh-CN": "红果短剧客户端，特色功能自动合成长剧",
+      "en-US": "A short-drama app that features the automatic compilation of individual episodes into a full-length feature."
     }
   }
 ]
